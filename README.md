@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello
+# Here is a student learning C currently
+# Good to see you.
 
 <!--
 **MCRXIII/MCRXIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
