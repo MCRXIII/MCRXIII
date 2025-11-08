@@ -1,5 +1,5 @@
 ## Hello
-### Here is a student learning C currently
+### Here is a Chinese student learning C currently
 ### Good to see you.
 
 <!--
