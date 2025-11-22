@@ -1,6 +1,7 @@
-## Hello
-### Here is a Chinese student learning C currently
+## Hello!
+### Here is a Chinese student learning C & ESP32 currently
 ### Good to see you.
+## 请多指教awa
 
 <!--
 **MCRXIII/MCRXIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
