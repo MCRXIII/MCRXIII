@@ -1,19 +1,11 @@
-## Hello!
-### Here is a Chinese student learning C & ESP32 currently
-### Good to see you.
-## 请多指教awa
+### 👋 你好 / Hello
 
-<!--
-**MCRXIII/MCRXIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Morioh，一名对物联网、嵌入式系统和创造可靠事物充满热情的构建者。
 
-Here are some ideas to get you started:
+- 🔭 **当前聚焦**：我正在独立开发 **“复古未来智能家居系统”**，一个强调离线运行、模块化与可靠性的适老化智能家居原型。
+- 🌱 **持续学习**：嵌入式C/C++、硬件设计、传感器融合。
+- 📫 **联系我**：3127716587@qq.com
+- 📄 **了解更多**：欢迎查看我的项目完整构想与进展 -> (Retro-Future-Smart-Home)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
